@@ -53,6 +53,13 @@
           "type": "share",
           "settings": {
           }
+        },
+        "732223b1-88e7-44bb-9904-dbea085820fb": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -64,7 +71,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "732223b1-88e7-44bb-9904-dbea085820fb"
       ],
       "settings": {
         "enable_sticky_info": true,
