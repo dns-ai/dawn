@@ -86,12 +86,19 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1628191057981f3efa": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "image_banner",
     "featured_products",
     "image_text",
-    "1628190907c397649c"
+    "1628190907c397649c",
+    "1628191057981f3efa"
   ]
 }
